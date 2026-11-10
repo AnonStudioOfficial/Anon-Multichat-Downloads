@@ -6,7 +6,7 @@ Este repositório distribui o aplicativo. O desenvolvimento é mantido em reposi
 
 ## Download e instalação
 
-1. Abra **[Releases](https://github.com/AnonStudioOfficial/Anon-Multichat-Downloads/releases)** e baixe `ANON-Multichat-6.1.0-B7.2-Windows-x64.zip`.
+1. Abra **[Releases](https://github.com/AnonStudioOfficial/Anon-Multichat-Downloads/releases/tag/v6.1.0-beta-b7.2-r2)** e baixe `ANON-Multichat-6.1.0-B7.2-Rev2-Windows-x64.zip`.
 2. Extraia o ZIP inteiro para uma pasta local.
 3. Execute `Multichat.exe` dentro da pasta extraída.
 4. Configure suas plataformas no botão **Plataformas**.
