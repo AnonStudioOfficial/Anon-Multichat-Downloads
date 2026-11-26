@@ -6,12 +6,16 @@ Este repositório distribui o aplicativo. O desenvolvimento é mantido em reposi
 
 ## Download e instalação
 
-1. Abra **[Releases](https://github.com/AnonStudioOfficial/Anon-Multichat-Downloads/releases/tag/v6.1.0-beta-b7.2-r2)** e baixe `ANON-Multichat-6.1.0-B7.2-Rev2-Windows-x64.zip`.
-2. Extraia o ZIP inteiro para uma pasta local.
-3. Execute `Multichat.exe` dentro da pasta extraída.
-4. Configure suas plataformas no botão **Plataformas**.
+**[Baixar instalador .exe — Revisão 4](https://github.com/AnonStudioOfficial/Anon-Multichat-Downloads/releases/download/v6.1.0-beta.7.2.4/ANON-Multichat-6.1.0-beta.7.2.4-Setup-x64.exe)** · [Notas da versão e integridade](https://github.com/AnonStudioOfficial/Anon-Multichat-Downloads/releases/tag/v6.1.0-beta.7.2.4)
 
-Esta é uma versão Beta. Leia `README-TESTERS-PT-BR.md`, incluído no ZIP, para conhecer os recursos e limitações.
+1. Encerre o Multichat pela bandeja em **Sair**.
+2. Baixe e execute `ANON-Multichat-6.1.0-beta.7.2.4-Setup-x64.exe`.
+3. Siga o instalador em português e abra pelo atalho **ANON Multichat Beta**.
+4. Configure suas plataformas no botão **Plataformas**, caso ainda não estejam configuradas.
+
+A instalação é por usuário, sem exigir administrador. Contas, preferências e links do OBS permanecem no perfil local existente. Evite abrir a cópia portátil antiga depois de instalar.
+
+Esta é uma versão Beta, ainda sem assinatura digital de editor. Os testes automatizados e de empacotamento passaram; a validação completa de instalação, atualização e desinstalação em Windows de teste continua necessária. Consulte `INSTALACAO.md` e `GUIA-DO-USUARIO.md` incluídos com o aplicativo.
 
 ## OBS
 
